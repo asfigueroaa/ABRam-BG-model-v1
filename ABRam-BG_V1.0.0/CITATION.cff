@@ -1,0 +1,35 @@
+abstract: 'The purpose of the ABRam-BG model is to study  belief dynamics as a potential
+  driver of green (growth) transitions and illustrate their dynamics in a closed,
+  decentralized economy populated by utility maximizing agents with an environmental
+  attitude. The model is built using the ABRam-T model (for model visit: https://doi.org/10.25937/ep45-k084)
+  and introduces two types of capital -- green (low carbon intensity) and brown (high
+  carbon intensity) -- with their respective technological progress levels. ABRam-BG
+  simulates a green transition as an emergent phenomenon resulting from well-known
+  opinion dynamics  along the economic process.  '
+authors:
+- affiliation: "Freie Universit\xE4t Berlin"
+  email: aida.figueroa.alvarez@fu-berlin.de
+  family-names: Figueroa Alvarez
+  given-names: Aida Sarai
+  orcid: https://orcid.org/0009-0003-2721-2978
+- affiliation: "Freie Universit\xE4t Berlin"
+  email: sarah.wolf@fu-berlin.de
+  family-names: Wolf
+  given-names: Sarah
+cff-version: 1.2.0
+date-released: '2024-12-09'
+doi: 10.25937/aqnj-rv39
+keywords:
+- agent-based computational economics
+- belief dynamics
+- Directed technical progress
+- Green Growth
+- Green transitions
+- opinion dynamics
+- Ramsey growth model
+license: MIT
+message: If you use this software, please cite it using the metadata from this file.
+title: Agent-Based Ramsey growth model with Brown and Green capital (ABRam-BG)
+type: software
+url: https://doi.org/10.25937/aqnj-rv39
+version: 1.0.0
